@@ -1,0 +1,15 @@
+D:\javacode\project\hmall\api\src\main\java\com\hmall\api\client\fallback\CartClientFallBack.java
+D:\javacode\project\hmall\api\src\main\java\com\hmall\api\client\UserClient.java
+D:\javacode\project\hmall\api\src\main\java\com\hmall\api\client\fallback\ItemClientFallBack.java
+D:\javacode\project\hmall\api\src\main\java\com\hmall\api\client\TradeClient.java
+D:\javacode\project\hmall\api\src\main\java\com\hmall\api\client\ItemClient.java
+D:\javacode\project\hmall\api\src\main\java\com\hmall\api\client\CartClient.java
+D:\javacode\project\hmall\api\src\main\java\com\hmall\api\client\fallback\UserClientFallBack.java
+D:\javacode\project\hmall\api\src\main\java\com\hmall\api\dto\ItemDTO.java
+D:\javacode\project\hmall\api\src\main\java\com\hmall\api\dto\OrderDetailDTO.java
+D:\javacode\project\hmall\api\src\main\java\com\hmall\api\client\fallback\TradeClientFallBack.java
+D:\javacode\project\hmall\api\src\main\java\com\hmall\api\client\fallback\PayClientFallback.java
+D:\javacode\project\hmall\api\src\main\java\com\hmall\api\config\DefaultFeignConfig.java
+D:\javacode\project\hmall\api\src\main\java\com\hmall\api\dto\PayOrderDTO.java
+D:\javacode\project\hmall\api\src\main\java\com\hmall\api\po\Order.java
+D:\javacode\project\hmall\api\src\main\java\com\hmall\api\client\PayClient.java

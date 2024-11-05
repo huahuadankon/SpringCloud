@@ -1,0 +1,17 @@
+09:23:18:265  INFO 22972 --- [main] com.hmall.HMallApplication               : Starting HMallApplication using Java 17.0.6 on LAPTOP-54DV2UAB with PID 22972 (D:\Notes\Javaweb\SpringCloud微服务—资料\day03-微服务01\资料\hmall\hm-service\target\classes started by liu'yi'chen in D:\Notes\Javaweb\SpringCloud微服务—资料\day03-微服务01\资料\hmall)
+09:23:18:270 DEBUG 22972 --- [main] com.hmall.HMallApplication               : Running with Spring Boot v2.7.12, Spring v5.3.27
+09:23:18:270  INFO 22972 --- [main] com.hmall.HMallApplication               : The following 1 profile is active: "dev"
+09:23:18:794  INFO 22972 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+09:23:18:796  INFO 22972 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+09:23:18:816  INFO 22972 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+09:23:19:192  INFO 22972 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+09:23:19:198  INFO 22972 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+09:23:19:198  INFO 22972 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.75]
+09:23:19:275  INFO 22972 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+09:23:19:275  INFO 22972 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 975 ms
+09:23:20:260  INFO 22972 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+09:23:20:518  INFO 22972 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+09:23:20:519  INFO 22972 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Documentation plugins bootstrapped
+09:23:20:520  INFO 22972 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+09:23:20:539  INFO 22972 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+09:23:20:655  INFO 22972 --- [main] com.hmall.HMallApplication               : Started HMallApplication in 2.66 seconds (JVM running for 3.057)

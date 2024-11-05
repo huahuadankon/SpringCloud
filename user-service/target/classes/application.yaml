@@ -1,0 +1,16 @@
+server:
+  port: 8084
+feign:
+  sentinel:
+    enabled: true
+hm:
+  swagger:
+    title: 交易服务接口文档
+    package: com.hmall.user.controller
+  db:
+    database: hm-user
+  jwt:
+    location: classpath:hmall.jks
+    alias: hmall
+    password: hmall123
+    tokenTTL: 30m

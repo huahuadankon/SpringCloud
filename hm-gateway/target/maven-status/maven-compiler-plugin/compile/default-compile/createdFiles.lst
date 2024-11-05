@@ -1,0 +1,8 @@
+com\hmall\gateway\util\JwtTool.class
+com\hmall\gateway\route\DynamicRouteLoader.class
+com\hmall\gateway\config\AuthProperties.class
+com\hmall\gateway\config\SecurityConfig.class
+com\hmall\gateway\GatewayApplication.class
+com\hmall\gateway\config\JwtProperties.class
+com\hmall\gateway\filter\AuthGlobalFilter.class
+com\hmall\gateway\route\DynamicRouteLoader$1.class

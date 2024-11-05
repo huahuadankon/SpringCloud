@@ -1,0 +1,11 @@
+D:\javacode\project\hmall\item-service\src\main\java\com\hmall\item\ItemApplication.java
+D:\javacode\project\hmall\item-service\src\main\java\com\hmall\item\controller\ItemController.java
+D:\javacode\project\hmall\item-service\src\main\java\com\hmall\item\controller\SearchController.java
+D:\javacode\project\hmall\item-service\src\main\java\com\hmall\item\mapper\ItemMapper.java
+D:\javacode\project\hmall\item-service\src\main\java\com\hmall\item\service\IItemService.java
+D:\javacode\project\hmall\item-service\src\main\java\com\hmall\item\domain\dto\OrderDetailDTO.java
+D:\javacode\project\hmall\item-service\src\main\java\com\hmall\item\domain\po\ItemDoc.java
+D:\javacode\project\hmall\item-service\src\main\java\com\hmall\item\service\impl\ItemServiceImpl.java
+D:\javacode\project\hmall\item-service\src\main\java\com\hmall\item\domain\query\ItemPageQuery.java
+D:\javacode\project\hmall\item-service\src\main\java\com\hmall\item\domain\dto\ItemDTO.java
+D:\javacode\project\hmall\item-service\src\main\java\com\hmall\item\domain\po\Item.java
